@@ -4,6 +4,6 @@
 	<title>AJAX</title>
 </head>
 <body>
-<a href="Click AJAX"></a>
+<a href="ajax.php">Click AJAX</a>
 </body>
 </html>
