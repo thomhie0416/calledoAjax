@@ -1,32 +1,28 @@
 <?php
    // Array with names
-   $a[] = "Android";
-   $a[] = "B programming language";
-   $a[] = "C programming language";
-   $a[] = "D programming language";
-   $a[] = "euphoria";
-   $a[] = "F#";
-   $a[] = "GWT";
-   $a[] = "HTML5";
-   $a[] = "ibatis";
-   $a[] = "Java";
-   $a[] = "K programming language";
-   $a[] = "Lisp";
-   $a[] = "Microsoft technologies";
-   $a[] = "Networking";
-   $a[] = "Open Source";
-   $a[] = "Prototype";
-   $a[] = "QC";
-   $a[] = "Restful web services";
-   $a[] = "Scrum";
-   $a[] = "Testing";
-   $a[] = "UML";
-   $a[] = "VB Script";
-   $a[] = "Web Technologies";
-   $a[] = "Xerox Technology";
-   $a[] = "YQL";
-   $a[] = "ocibindbyname";
-   $a[] = "ZOPL";
+   $a[] = "Thommy";
+   $a[] = "Carl";
+   $a[] = "Rey Martin";
+   $a[] = "Alfie";
+   $a[] = "Aljun";
+   $a[] = "Lovely Joy";
+   $a[] = "Josephine";
+   $a[] = "Alvin";
+   $a[] = "Martin";
+   $a[] = "Mark Ronald";
+   $a[] = "Noel";
+   $a[] = "Calledo";
+   $a[] = "Sarsonas";
+   $a[] = "Marcellana";
+   $a[] = "Rivera";
+   $a[] = "Romagiera";
+   $a[] = "Ybañez";
+   $a[] = "Cabatoan";
+   $a[] = "Salonoy";
+   $a[] = "Manalop";
+   $a[] = "Deramos";
+   $a[] = "Villarin";
+  
    
    $q = $_REQUEST["q"];
    $hint = "";
